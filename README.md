@@ -18,8 +18,7 @@ The preprocessing data for the paper  can be obtained from:
 
 ## Tutorials
 **Analysis from scRNA-seq data：**
-Figure 1 drawn in the main text  can be obtained from the following tutorial:
-- [Figure 1](https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scRNAseq_Figure1.Rmd), and example is available at [NFPanNET_scRNAseq_Figure1.html](https://htmlpreview.github.io/?https://github.com/TJJjiajuan/NF-NET/blob/main/NFPanNET_scRNAseq_Figure1.html).
+Figure 1 drawn in the main text  can be obtained from the following tutorial [Figure 1](https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scRNAseq_Figure1.Rmd) and an example is available at [NFPanNET_scRNAseq_Figure1.html](https://htmlpreview.github.io/?https://github.com/TJJjiajuan/NF-NET/blob/main/NFPanNET_scRNAseq_Figure1.html).
 
 
 Please do not hesitate to contact Dr. Tu at tujiajuan@163.com
