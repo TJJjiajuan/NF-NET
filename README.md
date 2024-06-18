@@ -11,6 +11,11 @@ text](https://github.com/TJJjiajuan/NF-NET/blob/main/Doc/Main.png?raw=true).
 Here we show the results in the main figures
 ```
 
+## NF-NET
+The raw data FASTQ data can be obtained from:
+The preprocessing data for the paper  can be obtained from:
+```
+
 ## Tutorials
 We also give a small example of how to run STged. Here we use the simulated FISHplus data set as an example. There are two ways to run STged, (1) run STged step by step, (2) run the STged by a main function.
 - [FISHplus with `STged`](https://github.com/TJJjiajuan/STged/blob/main/docs/Demo_STged_FISH.Rmd)
