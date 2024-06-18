@@ -22,7 +22,7 @@ Figure 1 drawn in the main text  can be obtained from the following tutorial:
 - [Figure 1](https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scRNAseq_Figure1.Rmd)
 
 Figure 2 drawn in the main text  can be obtained from the following tutorial:
-- [Figure 2]([https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scRNAseq_Figure1.Rmd](https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scRNAseq_Figure1.html))
+- [Figure 2](https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scRNAseq_Figure1.html).
 
 
 
