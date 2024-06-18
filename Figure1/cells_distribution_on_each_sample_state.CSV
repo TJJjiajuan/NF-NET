@@ -1,0 +1,147 @@
+"","Patient","CellType","freq"
+"1","G1-A","T cell",792
+"2","G1-A","stellate",82
+"3","G1-A","myCAF",45
+"4","G1-A","TAM",140
+"5","G1-A","Acinar",1
+"6","G1-A","Venous",423
+"7","G1-A","Artery",31
+"8","G1-A","B cell",15
+"9","G1-A","Capillary",1057
+"10","G1-A","MDSC",64
+"11","G1-A","NKT cell",340
+"12","G1-A","Endocrine",2268
+"13","G1-A","Proliferative Plasma cell",1
+"14","G1-A","Mast",16
+"15","G1-B","T cell",42
+"16","G1-B","stellate",73
+"17","G1-B","myCAF",33
+"18","G1-B","TAM",70
+"19","G1-B","Ductal",1
+"20","G1-B","Venous",135
+"21","G1-B","Artery",13
+"22","G1-B","B cell",5
+"23","G1-B","iCAF",3
+"24","G1-B","Capillary",275
+"25","G1-B","MDSC",5
+"26","G1-B","NKT cell",17
+"27","G1-B","Endocrine",4010
+"28","G1-B","Proliferative Plasma cell",2
+"29","G1-B","Mast",20
+"30","G1-C","T cell",28
+"31","G1-C","stellate",197
+"32","G1-C","myCAF",175
+"33","G1-C","TAM",30
+"34","G1-C","Ductal",4
+"35","G1-C","Acinar",1
+"36","G1-C","Venous",158
+"37","G1-C","Artery",7
+"38","G1-C","iCAF",5
+"39","G1-C","Capillary",637
+"40","G1-C","MDSC",4
+"41","G1-C","NKT cell",26
+"42","G1-C","Endocrine",561
+"43","G1-C","Mast",105
+"44","G1-D","T cell",503
+"45","G1-D","stellate",69
+"46","G1-D","myCAF",336
+"47","G1-D","TAM",191
+"48","G1-D","Ductal",76
+"49","G1-D","Acinar",22
+"50","G1-D","Venous",297
+"51","G1-D","Artery",24
+"52","G1-D","B cell",10
+"53","G1-D","iCAF",33
+"54","G1-D","Capillary",716
+"55","G1-D","MDSC",93
+"56","G1-D","NKT cell",118
+"57","G1-D","Endocrine",32
+"58","G1-D","Proliferative Plasma cell",4
+"59","G1-D","Mast",233
+"60","G1-E","T cell",341
+"61","G1-E","stellate",229
+"62","G1-E","myCAF",142
+"63","G1-E","TAM",83
+"64","G1-E","Ductal",82
+"65","G1-E","Acinar",40
+"66","G1-E","Venous",376
+"67","G1-E","Artery",11
+"68","G1-E","B cell",49
+"69","G1-E","iCAF",13
+"70","G1-E","Capillary",226
+"71","G1-E","MDSC",17
+"72","G1-E","NKT cell",55
+"73","G1-E","Endocrine",1081
+"74","G1-E","Proliferative Plasma cell",1
+"75","G1-E","Mast",4
+"76","G2-A","T cell",69
+"77","G2-A","stellate",82
+"78","G2-A","myCAF",168
+"79","G2-A","TAM",16
+"80","G2-A","Ductal",30
+"81","G2-A","Acinar",2
+"82","G2-A","Venous",263
+"83","G2-A","Artery",103
+"84","G2-A","B cell",1
+"85","G2-A","iCAF",85
+"86","G2-A","Capillary",657
+"87","G2-A","MDSC",2
+"88","G2-A","NKT cell",47
+"89","G2-A","Endocrine",19
+"90","G2-A","Mast",7
+"91","G2-B","T cell",43
+"92","G2-B","stellate",221
+"93","G2-B","myCAF",39
+"94","G2-B","TAM",15
+"95","G2-B","Venous",216
+"96","G2-B","Artery",6
+"97","G2-B","B cell",5
+"98","G2-B","Capillary",455
+"99","G2-B","MDSC",23
+"100","G2-B","NKT cell",130
+"101","G2-B","Endocrine",273
+"102","G2-B","Mast",8
+"103","G3-A","T cell",1546
+"104","G3-A","stellate",11
+"105","G3-A","myCAF",22
+"106","G3-A","TAM",68
+"107","G3-A","Venous",73
+"108","G3-A","Artery",3
+"109","G3-A","B cell",2055
+"110","G3-A","iCAF",7
+"111","G3-A","Capillary",13
+"112","G3-A","MDSC",53
+"113","G3-A","NKT cell",366
+"114","G3-A","Endocrine",187
+"115","G3-A","Proliferative Plasma cell",235
+"116","G3-A","Mast",1
+"117","G3-B","T cell",865
+"118","G3-B","stellate",696
+"119","G3-B","myCAF",919
+"120","G3-B","TAM",945
+"121","G3-B","Ductal",512
+"122","G3-B","Acinar",533
+"123","G3-B","Venous",539
+"124","G3-B","Artery",64
+"125","G3-B","B cell",80
+"126","G3-B","iCAF",539
+"127","G3-B","Capillary",72
+"128","G3-B","MDSC",51
+"129","G3-B","NKT cell",94
+"130","G3-B","Endocrine",142
+"131","G3-B","Proliferative Plasma cell",6
+"132","G3-B","Mast",1
+"133","G3-C","T cell",1
+"134","G3-C","stellate",51
+"135","G3-C","myCAF",87
+"136","G3-C","TAM",132
+"137","G3-C","Ductal",600
+"138","G3-C","Acinar",62
+"139","G3-C","Venous",131
+"140","G3-C","Artery",4
+"141","G3-C","iCAF",111
+"142","G3-C","Capillary",14
+"143","G3-C","MDSC",1
+"144","G3-C","NKT cell",4
+"145","G3-C","Endocrine",132
+"146","G3-C","Proliferative Plasma cell",1
