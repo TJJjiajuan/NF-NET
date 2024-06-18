@@ -24,9 +24,3 @@ Please do not hesitate to contact Dr. Tu at tujiajuan@163.com
 to seek any clarifications regarding any content or operation of the
 archive.
 
-**# STged
-R package supporting the paper **"STged: Gene expression deconvolution for spatial transcriptomic data"**. 
-
-STged integrates spatial correlation patterns of gene expression and intra-cell type expression similarity to achieve precise and robust deconvolution results. Implemented within a non-negative least-squares regression framework, STged models gene expression levels at each spot as a weighted linear combination of cell type-specific gene expression, with the weights corresponding to the respective cell type proportions. By incorporating a spatial neighborhood graph prior, STged captures spatial correlation structures in cell type expressions across spots. Moreover, it integrates cell type-specific gene expression information prior from scRNA-seq data to enhance accuracy.
-### Overview of STged
-![alt
