@@ -17,9 +17,11 @@ The preprocessing data for the paper  can be obtained from:
 ```
 
 ## Tutorials
-We also give a small example of how to run STged. Here we use the simulated FISHplus data set as an example. There are two ways to run STged, (1) run STged step by step, (2) run the STged by a main function.
-- [FISHplus with `STged`](https://github.com/TJJjiajuan/STged/blob/main/docs/Demo_STged_FISH.Rmd)
-  
+The analysis from scRNA-seq data：
+Figure 1 drawn in the main text  can be obtained from the following tutorial:
+- [FISHplus with `STged`](https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scRNAseq_Figure1.Rmd)
+
+
 Please do not hesitate to contact Dr. Tu at tujiajuan@163.com
 to seek any clarifications regarding any content or operation of the
 archive.
