@@ -7,16 +7,6 @@ In this study, through scRNA-seq (n=10) and scATAC-seq (n=4) profiling, we chara
 ![alt
 text](https://github.com/TJJjiajuan/NF-NET/blob/main/Doc/Main.png?raw=true).
 
-
-## NF-NET
-Here we show the results in the main figures
-```
-
-## NF-NET
-The raw data FASTQ data can be obtained from:
-The preprocessing data for the paper  can be obtained from:
-```
-
 ##  Data
 The three raw data (result data) used in this topic are provided by Zenodo website with [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12539609.svg)](https://doi.org/10.5281/zenodo.12539609).
 
@@ -26,9 +16,10 @@ The three raw data (result data) used in this topic are provided by Zenodo websi
 - Figure 2 drawn in the main text can be obtained from the following tutorial [Figure2](https://htmlpreview.github.io/?https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scRNAseq_Figure2.html).
 
 
+## Coding
+We provide the code for data preprocessing and the code for related programs in the project, and they are all saved in the folder
 
 
-## Contact
+##  Contact
 Please do not hesitate to contact Dr. Tu at tujiajuan@163.com to seek any clarifications regarding any content or operation of the archive.
-
 
