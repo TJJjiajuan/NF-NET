@@ -14,7 +14,14 @@ The three raw data (result data) used in this topic are provided by Zenodo websi
 **Analysis from scRNA-seq data：**
 - Figure 1 drawn in the main text can be obtained from the following tutorial [Figure1](https://htmlpreview.github.io/?https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scRNAseq_Figure1.html).
 - Figure 2 drawn in the main text can be obtained from the following tutorial [Figure2](https://htmlpreview.github.io/?https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scRNAseq_Figure2.html).
+- Figure S1 drawn in the Supplementary text can be obtained from the following tutorial [Figure1](https://htmlpreview.github.io/?https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scRNAseq_Supp_Figure1.html).
+- Figure S2 drawn in the Supplementary text can be obtained from the following tutorial [Figure2](https://htmlpreview.github.io/?https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scRNAseq_Supp_Figure2.html).
 
+**Analysis from scATAC-seq data：**
+- Figure 3 drawn in the main text can be obtained from the following tutorial [Figure1](https://htmlpreview.github.io/?https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scRNAseq_Figure3.html).
+- Figure S3 drawn in the Supplementary text can be obtained from the following tutorial [Figure1](https://htmlpreview.github.io/?https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scRNAseq_Supp_Figure3.html).
+
+**Analysis from BULK data：**
 
 ## Coding
 We provide the code for data preprocessing and the code for related programs in the project, and they are all saved in the folder
