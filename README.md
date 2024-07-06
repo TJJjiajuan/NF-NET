@@ -18,7 +18,7 @@ The three raw data (result data) used in this topic are provided by Zenodo websi
 - Figure S2 drawn in the Supplementary text can be obtained from the following tutorial [FigureS2](https://htmlpreview.github.io/?https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scRNAseq_Supp_Figure2.html).
 
 **Analysis from scATAC-seq data：**
-- Figure 3 drawn in the main text can be obtained from the following tutorial [Figure3](https://htmlpreview.github.io/?https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scATACseq_Figure3.html.html).
+- Figure 3 drawn in the main text can be obtained from the following tutorial [Figure3](https://htmlpreview.github.io/?https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scATACseq_Figure3.html).
 - Figure S3 drawn in the Supplementary text can be obtained from the following tutorial [FigureS3](https://htmlpreview.github.io/?https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scATACseq_Supp_Figure3.html).
 
 **Analysis from BULK data：**
