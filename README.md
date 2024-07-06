@@ -26,8 +26,6 @@ The three raw data (result data) used in this topic are provided by Zenodo websi
 ## Coding
 We provide the code for data preprocessing and the code for related programs in the project, and they are all saved in the folder
 
-### Example Analysis with NF-NET: [here](https://htmlpreview.github.io/?https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scRNAseq_Figure1.html).
-
 ##  Contact
 Please do not hesitate to contact Dr. Tu at tujiajuan@163.com to seek any clarifications regarding any content or operation of the archive.
 
