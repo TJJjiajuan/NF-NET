@@ -12,7 +12,13 @@ Here is the code for running the analysis in the NF-NET manuscript.
 
 #### Code for experiments
 * [Simulations](https://github.com/YingMa0107/CARD-Analysis/tree/master/simulations) [with examples on how to simulate the data](https://github.com/YingMa0107/CARD-Analysis/blob/master/simulations/simulate_data.R)
-* Real data analysis
-  * [Mouse Olfactory Bulb Analysis with CARD](https://htmlpreview.github.io/?https://github.com/YingMa0107/CARD-Analysis/blob/master/Analysis/MOB_CARD.html)
-  * [Human PDAC Analysis with CARD](https://yma-lab.github.io/CARD/documentation/04_CARD_Example.html)
-  * [Mouse Hippocampus Analysis with CARD](https://htmlpreview.github.io/?https://github.com/YingMa0107/CARD-Analysis/blob/master/Analysis/Hippocampus_CARD.html)
+* Analysis from scRNA-seq data
+  * [Mouse Olfactory Bulb Analysis with CARD](https://htmlpreview.github.io/?https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scRNAseq_Figure1.html).
+  * [Human PDAC Analysis with CARD](https://htmlpreview.github.io/?https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scRNAseq_Figure2.html).
+  * [Mouse Hippocampus Analysis with CARD](https://htmlpreview.github.io/?https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scRNAseq_Supp_Figure1.html).
+  * [Mouse Hippocampus Analysis with CARD](https://htmlpreview.github.io/?https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scRNAseq_Supp_Figure2.html).
+* Analysis from scATAC-seq data
+   *  [Mouse Hippocampus Analysis with CARD](https://htmlpreview.github.io/?https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scRNAseq_Figure3.html).
+  * [Mouse Hippocampus Analysis with CARD](https://htmlpreview.github.io/?https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scRNAseq_Supp_Figure3.html).
+* Analysis from BULK data
+
