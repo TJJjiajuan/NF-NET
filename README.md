@@ -23,6 +23,8 @@ The three raw data (result data) used in this topic are provided by Zenodo websi
 - Figure S3 drawn in the Supplementary text can be obtained from the following tutorial [FigureS3](https://htmlpreview.github.io/?https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_scATACseq_Supp_Figure3.html).
 
 **Analysis from BULK data：**
+- Figure S3 drawn in the main text and Supplementary text can be obtained from the following tutorial [Figures for BULK data](https://htmlpreview.github.io/?https://github.com/TJJjiajuan/NF-NET/blob/main/Tutorials/NFPanNET_BULK_analysis.html).
+
 
 ## Coding
 We provide the code for data preprocessing and the code for related programs in the project, and they are all saved in the folder
